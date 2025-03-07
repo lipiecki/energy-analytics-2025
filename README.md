@@ -10,7 +10,7 @@ This repository contains Python notebooks supplementary to [Rafał Weron](https:
 ## Part II
 - Forecast averaging <a href="https://colab.research.google.com/github/lipiecki/energy-analytics-2025/blob/main/notebooks/Averaging.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Shrinkage - lasso and ridge regression <a href="https://colab.research.google.com/github/lipiecki/energy-analytics-2025/blob/main/notebooks/Shrinkage.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- PostForecasts - postprocessing point forecasts with Julia [![Open In Github](https://img.shields.io/badge/.ipynb-Open_in_Github-blue)](https://github.com/lipiecki/energy-analytics-2025/blob/main/notebooks/PostForecasts.ipynb)
+- PostForecasts - postprocessing point forecasts with Julia <a href="https://colab.research.google.com/github/lipiecki/energy-analytics-2025/blob/main/notebooks/PostForecasts.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Related papers
 - A. Lipiecki, R. Weron (2025) *PostForecasts.jl: A Julia package for probabilistic forecasting by postprocessing point predictions* (url: [https://ideas.repec.org/p/ahh/wpaper/worms2502.html](https://ideas.repec.org/p/ahh/wpaper/worms2502.html))
